@@ -73,7 +73,7 @@
   <a href="https://codeforces.com/profile/aDarsh_292" target="_blank">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aDarsh_292" alt="Codeforces" height="250" />
   </a>
-  <a href="https://leetcode.com/fdgdhadxxxarcdf" target="_blank">
+  <a href="https://leetcode.com/aDarsh292" target="_blank">
     <img src="https://leetcard.jacoblin.cool/fdgdhadxxxarcdf?ext=contest" alt="Leetcode" height="250" />
   </a>
 </p>
