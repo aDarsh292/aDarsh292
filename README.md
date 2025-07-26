@@ -52,7 +52,7 @@
   <a href="https://www.linkedin.com/in/adarshkumar292/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://leetcode.com/fdgdhadxxxarcdf" target="_blank">
+  <a href="https://leetcode.com/aDarsh292" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
   <a href="https://codeforces.com/profile/aDarsh_292" target="_blank">
