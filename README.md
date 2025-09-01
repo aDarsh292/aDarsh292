@@ -58,11 +58,11 @@
   <a href="https://codeforces.com/profile/aDarsh_292" target="_blank">
     <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=aDarsh_292" alt="Codeforces">
   </a>
-  <a href="https://www.naukri.com/code360/profile/aDarsh_292" target="_blank">
-    <img src="https://img.shields.io/badge/Coding%20Ninjas-%23FF6F00.svg?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas CodeStudio">
-  </a>
   <a href="https://www.geeksforgeeks.org/user/adarsh292/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile">
+  </a>
+  <a href="https://www.naukri.com/code360/profile/aDarsh_292" target="_blank">
+    <img src="https://img.shields.io/badge/Coding%20Ninjas-%23FF6F00.svg?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas CodeStudio">
   </a>
 </p>
 
@@ -74,7 +74,7 @@
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aDarsh_292" alt="Codeforces" height="250" />
   </a>
   <a href="https://leetcode.com/aDarsh292" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/fdgdhadxxxarcdf?ext=contest" alt="Leetcode" height="250" />
+    <img src="https://leetcard.jacoblin.cool/aDarsh292?ext=contest" alt="Leetcode" height="250" />
   </a>
 </p>
 
@@ -82,7 +82,7 @@
 
 <h3 align="left">📄 Resume</h3>
 <p align="center">
-  <a href="https://drive.google.com/drive/folders/19lxrZOgbVAbV5TuGOlv5XiWoky06Kdp0" target="_blank">
+  <a href="https://drive.google.com/drive/folders/1sC8BP0gdJNtDem95cGn8Agvi-niJFe9J?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View%20Here-%230077B5?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
   </a>
 </p>
