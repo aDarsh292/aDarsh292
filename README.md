@@ -76,7 +76,7 @@
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aDarsh_292" alt="Codeforces" height="250" />
   </a>
   <a href="https://leetcode.com/aDarsh_292" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/aDarsh292?ext=contest" alt="Leetcode" height="250" />
+    <img src="https://leetcard.jacoblin.cool/aDarsh_292?ext=contest" alt="Leetcode" height="250" />
   </a>
 </p>
 
