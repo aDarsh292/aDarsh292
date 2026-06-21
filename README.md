@@ -11,7 +11,6 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
@@ -52,11 +51,14 @@
   <a href="https://www.linkedin.com/in/adarshkumar292/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://leetcode.com/aDarsh292" target="_blank">
+  <a href="https://leetcode.com/u/aDarsh_292/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
   <a href="https://codeforces.com/profile/aDarsh_292" target="_blank">
     <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=aDarsh_292" alt="Codeforces">
+  </a>
+  <a href="https://www.codechef.com/users/adarshkumar292" target="_blank">
+    <img src="https://codechef-readme-stats.vercel.app/api/badge?username=adarshkumar292" alt="CodeChef">
   </a>
   <a href="https://www.geeksforgeeks.org/user/adarsh292/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile">
@@ -73,7 +75,7 @@
   <a href="https://codeforces.com/profile/aDarsh_292" target="_blank">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aDarsh_292" alt="Codeforces" height="250" />
   </a>
-  <a href="https://leetcode.com/aDarsh292" target="_blank">
+  <a href="https://leetcode.com/aDarsh_292" target="_blank">
     <img src="https://leetcard.jacoblin.cool/aDarsh292?ext=contest" alt="Leetcode" height="250" />
   </a>
 </p>
