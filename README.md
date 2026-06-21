@@ -58,7 +58,7 @@
     <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=aDarsh_292" alt="Codeforces">
   </a>
   <a href="https://www.codechef.com/users/adarshkumar292" target="_blank">
-    <img src="https://codechef-readme-stats.vercel.app/api/badge?username=adarshkumar292" alt="CodeChef">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
   </a>
   <a href="https://www.geeksforgeeks.org/user/adarsh292/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile">
